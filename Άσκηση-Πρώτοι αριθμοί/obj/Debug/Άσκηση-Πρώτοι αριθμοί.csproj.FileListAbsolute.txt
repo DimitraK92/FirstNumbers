@@ -1,0 +1,11 @@
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Άσκηση-Πρώτοι αριθμοί\Άσκηση-Πρώτοι αριθμοί\bin\Debug\Άσκηση-Πρώτοι αριθμοί.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Άσκηση-Πρώτοι αριθμοί\Άσκηση-Πρώτοι αριθμοί\bin\Debug\Άσκηση-Πρώτοι αριθμοί.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Άσκηση-Πρώτοι αριθμοί\Άσκηση-Πρώτοι αριθμοί\bin\Debug\Άσκηση-Πρώτοι αριθμοί.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Άσκηση-Πρώτοι αριθμοί\Άσκηση-Πρώτοι αριθμοί\obj\Debug\Άσκηση-Πρώτοι αριθμοί.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Άσκηση-Πρώτοι αριθμοί\Άσκηση-Πρώτοι αριθμοί\obj\Debug\Άσκηση-Πρώτοι αριθμοί.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Άσκηση-Πρώτοι αριθμοί\Άσκηση-Πρώτοι αριθμοί\obj\Debug\Άσκηση-Πρώτοι αριθμοί.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\Άσκηση-Πρώτοι αριθμοί\Άσκηση-Πρώτοι αριθμοί\obj\Debug\Άσκηση-Πρώτοι αριθμοί.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\February 2021\Askhseis gia to spiti\Άσκηση-Πρώτοι αριθμοί\Άσκηση-Πρώτοι αριθμοί\obj\Debug\Άσκηση-Πρώτοι αριθμοί.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\February 2021\Askhseis gia to spiti\Άσκηση-Πρώτοι αριθμοί\Άσκηση-Πρώτοι αριθμοί\obj\Debug\Άσκηση-Πρώτοι αριθμοί.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\February 2021\Askhseis gia to spiti\Άσκηση-Πρώτοι αριθμοί\Άσκηση-Πρώτοι αριθμοί\obj\Debug\Άσκηση-Πρώτοι αριθμοί.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\February 2021\Askhseis gia to spiti\Άσκηση-Πρώτοι αριθμοί\Άσκηση-Πρώτοι αριθμοί\obj\Debug\Άσκηση-Πρώτοι αριθμοί.pdb
